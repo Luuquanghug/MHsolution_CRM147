@@ -1,0 +1,14 @@
+project_id = "mhsolution-crm-local"
+
+[api]
+enabled = true
+port = 54321
+
+[db]
+port = 54322
+
+[auth]
+enabled = true
+
+[storage]
+enabled = true
